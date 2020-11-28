@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Anchored Inversion
-email: inversed.anchor@gmail.com
+email: inverse.anchor@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Anchored Inversion for Gaussian random fields with nonlinear data.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: inversed_anchor
+twitter_username: anchored-inversion
 github_username:  anchored-inversion
 
 # Build settings
